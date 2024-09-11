@@ -1,3 +1,6 @@
 [submodule "ThreadDemo"]
 	path = ThreadDemo
 	url = ../ThreadDemo/
+[submodule "WaitAndSleep"]
+	path = WaitAndSleep
+	url = ../WaitAndSleep/
