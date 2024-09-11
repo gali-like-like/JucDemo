@@ -1,0 +1,3 @@
+[submodule "ThreadDemo"]
+	path = ThreadDemo
+	url = ../ThreadDemo/
